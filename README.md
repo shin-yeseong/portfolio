@@ -47,7 +47,7 @@
 
 ## 📫 Contact
 - GitHub: [github.com/shin-yeseong](https://github.com/shin-yeseong)
-- Email: 1020blue@naver.com (이메일 수정 필요)
+- Email: 1020blue@naver.com
 
 ---
 
